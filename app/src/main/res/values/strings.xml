@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UsersDatabase</string>
+
+    <string name="toast_refreshing">Refreshing data…</string>
+
+    <string name="viewer_title">View User</string>
+    <string name="editor_title">Edit User</string>
+
+    <string name="label_first_name">First Name</string>
+    <string name="label_last_name">Last Name</string>
+    <string name="label_email">E-mail</string>
+
+    <string name="menu_edit">Edit</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_delete">Delete</string>
+
+    <string name="image_hint">Click here to open the gallery</string>
+
+    <string name="save_dialog_title">Save changes?</string>
+    <string name="save_dialog_pos">Yes</string>
+    <string name="save_dialog_neg">No</string>
+    <string name="save_dialog_neu">Cancel</string>
+
+    <string name="delete_dialog_title">Delete this user?</string>
+    <string name="delete_dialog_pos">Yes</string>
+    <string name="delete_dialog_neg">No</string>
+</resources>
